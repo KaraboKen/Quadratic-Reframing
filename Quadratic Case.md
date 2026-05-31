@@ -1,4 +1,4 @@
-# Line–Parabola (LP) Method – Quadratic Case
+# Foxed Curve Intercept Method – Quadratic Case
 
 ## Core Idea
 

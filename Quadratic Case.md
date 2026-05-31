@@ -1,4 +1,4 @@
-# Foxed Curve Intercept Method – Quadratic Case
+# Fixed Curve Intercept Method – Quadratic Case
 
 ## Core Idea
 
